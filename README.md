@@ -6,7 +6,7 @@ Below 2 examples of how to use the module, 1 with Terraform another with Terragr
 
 **Terragrunt**
 ```
-name: "budget-data-analytics-leo"
+name: "budget-aws"
 budget_type : "COST"
 time_unit   : "MONTHLY"
 limit_unit  : "USD"
@@ -17,7 +17,7 @@ notification:
      threshold                  : 100
      threshold_type             : "PERCENTAGE"
      notification_type          : "FORECASTED"
-     subscriber_email_addresses : "bla@bla.com"
+     subscriber_email_addresses : "abc@xxx.com"
   -
     comparison_operator        : "GREATER_THAN"
     threshold                  : 90
