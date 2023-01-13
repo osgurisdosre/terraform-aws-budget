@@ -1,5 +1,5 @@
 variable "name" {
-  description = "The name of a budget. Unique within accounts"
+  description = "The name of a budget. Unique within accounts."
   type        = string
 }
 variable "budget_type" {
