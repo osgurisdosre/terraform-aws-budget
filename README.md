@@ -1,8 +1,8 @@
 # Terraform modules Budgets
 
-Este modulo busca criar um Budget para a conta da AWS, aceitando 1 ou mais alertas, escolhemos utilizar as notificações via e-mail, tendo em vista a praticidade.
+This module seeks to create a Budget for the AWS account, accepting 1 or more alerts, we chose to use email notifications, in view of the practicality.
 
-Abaixo 2 exemplos de confo utilizar o modulo, 1 com o Terraform outro com Terragrunt:
+Below 2 examples of how to use the module, 1 with Terraform another with Terragrunt:
 
 **Terragrunt**
 ```
