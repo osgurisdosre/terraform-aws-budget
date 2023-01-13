@@ -103,3 +103,9 @@ No modules.
 |------|-------------|
 | <a name="output_budget_name"></a> [budget\_name](#output\_budget\_name) | The name of the Budget. |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+## Authors
+
+Module is maintained by [Emidio Neto](https://github.com/emdneto), [Leonardo Jardim](https://github.com/leojaardim) and [Yuri Azeredo](https://github.com/yuriazeredo)
+## License
+
+Apache 2 Licensed. See [LICENSE](https://github.com/osgurisdosre/terraform-aws-budget/blob/main/LICENSE) for full details.
