@@ -31,7 +31,7 @@ notification:
 **Terraform**
 ```
 module "budget" {
-  source                     = "./modules/budget"
+  source                     = "osgurisdosre/budget/awst"
   name                       = var.name
   budget_type                = var.budget_type["budget_type"]
   limit_amount               = var.limit_amount
